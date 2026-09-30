@@ -1,7 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sina%20Mahboobipour&fontSize=42&fontAlignY=32&desc=Master's%20Student%20%7C%20Developer&descAlignY=52&descSize=18" width="100%" />
+
 <a href="https://github.com/SinaMah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sina+%F0%9F%91%8B;Master's+Student+at+IUST+%F0%9F%8E%93;Passionate+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sina+%F0%9F%91%8B;Master's+Student+at+IUST+%F0%9F%8E%93;Passionate+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 
 <br />
 
@@ -31,19 +33,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinaMah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaMah&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=SinaMah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinaMah&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinaMah&theme=tokyonight" width="100%" alt="Profile Details" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SinaMah&theme=tokyonight" width="49%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SinaMah&theme=tokyonight" width="49%" alt="Most Commit Language" />
 </div>
 
 ---
