@@ -1,57 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Sina%20Mahboobipour&fontSize=50&fontColor=F8FAFC&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20Algorithms%20%E2%80%A2%20Practical%20Software&descSize=16&descAlignY=58&color=0:020617,45:0F172A,75:075985,100:0284C7&animation=fadeIn" width="100%" alt="Sina Mahboobipour" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=F5F0E8&text=SINA%20MAHBOOBIPOUR&fontSize=52&fontColor=1A1815&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Master%27s%20Student%20at%20IUST&descSize=14&descAlignY=66&descColor=9B3D2E" width="100%" alt="Sina Mahboobipour" />
 
-<a href="https://github.com/SinaMah">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=Master's+Student+at+IUST;Software+Engineering+%26+Algorithms;Turning+Ideas+into+Practical+Software;Learn.+Build.+Solve.+Repeat." alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/SinaMah">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://sinamah.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:sinamahboobipour@yahoo.com">
-  <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://t.me/sinamahp">
-  <img src="https://img.shields.io/badge/Telegram-075985?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-<br><br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SinaMah.SinaMah&left_color=0F172A&right_color=0284C7&left_text=PROFILE%20VIEWS" alt="Profile Views" />
+<sub><b>ISSUE NO. 01</b> &nbsp;·&nbsp; TEHRAN, IRAN &nbsp;·&nbsp; 2026</sub>
 
 </div>
 
 ---
 
-## 👋 About Me
+> ### *"Software is a craft — not a race. I build like I mean it."*
+
+---
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-I'm **Sina Mahboobipour**, a Master's student at **Iran University of Science and Technology (IUST)** with a strong interest in software engineering, algorithms, and practical software development.
+### THE LONG READ
 
-I enjoy transforming complex ideas into **clean, efficient, and maintainable software** — and I'm always exploring new technologies to build better solutions.
+I'm **Sina Mahboobipour** — a Master's student at **Iran University of Science and Technology (IUST)**, working at the intersection of software engineering, algorithms, and practical software.
+
+I gravitate toward problems that don't have an obvious answer: the ones that force you to slow down, restructure your thinking, and rebuild from first principles. I care less about shipping features quickly and more about **getting the fundamentals right**, so that everything built on top of them holds up.
+
+What draws me to this work is simple — I love coding, I love solving challenges, and I love watching a well-designed idea become something people can actually use.
 
 </td>
-<td width="42%" valign="top">
 
-**🎯 Current Focus**
+<td width="38%" valign="top">
 
-```txt
-╭──────────────────────────────╮
-│  Software Engineering        │
-│  Algorithms & Problem Solving│
-│  Practical Applications      │
-│  Scalable Solutions          │
-│  Continuous Learning         │
-╰──────────────────────────────╯
+### MARGINALIA
+
+**Reading**
+Structure and Interpretation of Computer Programs
+
+**Building**
+Small tools that solve real problems
+
+**Thinking about**
+Why the best code is the code you never write
+
+**Based in**
+Tehran, Iran
+
+</td>
+</tr>
+</table>
+
+---
+
+### SELECTED WORK
+
+**→ [PROJECT-ONE](https://github.com/SinaMah/PROJECT-ONE)**
+A one-line description of what this project does — the problem it solves and why it's interesting.
+
+**→ [PROJECT-TWO](https://github.com/SinaMah/PROJECT-TWO)**
+A one-line description of what this project does — the problem it solves and why it's interesting.
+
+<sub>*More work available in the [repositories](https://github.com/SinaMah?tab=repositories).*</sub>
+
+---
+
+### WORKING IN
+
+**Python** · **C++** · **C** · **HTML** · **CSS**
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaMah&layout=donut&langs_count=6&hide_border=true&theme=transparent&title_color=9B3D2E&text_color=6B6357&bg_color=00000000" height="180" alt="Top Languages" />
+
+<sub><b>FIG. 1</b> — Distribution of languages across public repositories.</sub>
+
+</div>
+
+---
+
+### COLOPHON
+
+**Correspondence** — [sinamahboobipour@yahoo.com](mailto:sinamahboobipour@yahoo.com)
+**Telegram** — [@sinamahp](https://t.me/sinamahp)
+**Portfolio** — [sinamah.github.io](https://sinamah.github.io)
+**GitHub** — [@SinaMah](https://github.com/SinaMah)
+
+<br>
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SinaMah.SinaMah&left_color=F5F0E8&right_color=9B3D2E&left_text=CIRCULATION" alt="Circulation" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=1A1815&text=BUILD%20%C2%B7%20LEARN%20%C2%B7%20SOLVE%20%C2%B7%20REPEAT&fontSize=16&fontColor=F5F0E8&fontAlignY=50" width="100%" alt="Footer" />
+
+</div>
