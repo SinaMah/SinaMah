@@ -25,7 +25,11 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luc0-0/GodProfile/main/assets/icon_marquee.svg" width="800" alt="Animated Icon Marquee" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
 </div>
 
 ---
