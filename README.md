@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=SinaMah&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SinaMah.SinaMah&left_color=1f2937&right_color=38bdf8" alt="Profile Views" />
 
 </div>
 
@@ -13,11 +13,10 @@
 
 ### 🚀 About Me
 
-* 🎓 I am a **Master's Student** at **Iran University of Technology (IUST)**.
-* 💡 I am deeply passionate about **coding**, **solving challenges**, and building **practical applications** that make a real impact.
-* 🧠 I love turning complex problems into clean, elegant, and functional code.
-* 🌱 I'm constantly learning, experimenting with new technologies, and leveling up my skills.
-* ⚡ Fun fact: *When I'm not studying or writing code, you can find me exploring new tech trends!*
+🎓 Master's Student at **Iran University of Technology (IUST)**.
+💻 Focused on **Software Engineering**, **Algorithms**, and building **practical applications**.
+🧠 Passionate about **coding**, **solving complex challenges**, and transforming ideas into clean, functional code.
+🚀 Constantly exploring new technologies to build efficient and scalable solutions.
 
 ---
 
@@ -32,16 +31,24 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinaMah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaMah&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SinaMah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaMah&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
   <br/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=SinaMah&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SinaMah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📫 Let's Connect!
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinaMah&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+### 📫 Let's Connect
 
 <div align="center">
   <a href="mailto:sinamahboobipour@yahoo.com">
