@@ -15,17 +15,17 @@
 
 ### 🚀 About Me
 
-🎓 Master's Student at **Iran University of Technology (IUST)**.
-💻 Focused on **Software Engineering**, **Algorithms**, and building **practical applications**.
-🧠 Passionate about **coding**, **solving complex challenges**, and transforming ideas into clean, functional code.
-🚀 Constantly exploring new technologies to build efficient and scalable solutions.
+* 🎓 Master's Student at **Iran University of Technology (IUST)**.
+* 💻 Focused on **Software Engineering**, **Algorithms**, and building **practical applications**.
+* 🧠 Passionate about **coding**, **solving complex challenges**, and transforming ideas into clean, functional code.
+* 🚀 Constantly exploring new technologies to build efficient and scalable solutions.
 
 ---
 
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css" alt="My Tech Stack" />
+  <img src="https://raw.githubusercontent.com/Luc0-0/GodProfile/main/assets/icon_marquee.svg" width="800" alt="Animated Icon Marquee" />
 </div>
 
 ---
