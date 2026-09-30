@@ -1,18 +1,11 @@
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Sina%20Mahboobipour&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%7C%20Algorithms%20%7C%20Building%20Practical%20Software&descSize=17&descAlignY=58&color=0:020617,45:0F172A,75:075985,100:0284C7&animation=fadeIn"
-width="100%"
-alt="Sina Mahboobipour"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Sina%20Mahboobipour&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%7C%20Algorithms%20%7C%20Building%20Practical%20Software&descSize=17&descAlignY=58&color=0:020617,45:0F172A,75:075985,100:0284C7&animation=fadeIn" width="100%" alt="Sina Mahboobipour" />
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=Master's+Student+at+IUST;Software+Engineering+%26+Algorithms;Turning+Ideas+into+Practical+Software;Learn.+Build.+Solve."
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=Master's+Student+at+IUST;Software+Engineering+%26+Algorithms;Turning+Ideas+into+Practical+Software;Learn.+Build.+Solve." alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -35,10 +28,7 @@ alt="Sina Mahboobipour"
 
 <br><br>
 
-<img
-src="https://komarev.com/ghpvc/?username=SinaMah&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square"
-alt="Profile Views"
-/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SinaMah.SinaMah&left_color=0F172A&right_color=0284C7" alt="Profile Views" />
 
 </div>
 
@@ -62,11 +52,7 @@ I'm continuously learning, experimenting with new technologies, and looking for 
 
 <td width="38%" align="center" valign="middle">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=SinaMah&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=transparent&text_color=94A3B8&icon_color=38BDF8"
-width="95%"
-alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=SinaMah&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=transparent&text_color=94A3B8&icon_color=38BDF8" width="95%" alt="GitHub Stats" />
 
 </td>
 </tr>
@@ -123,13 +109,13 @@ Turning ideas into efficient and useful applications.
 <p align="center">
 
 `Software Engineering`
-  •  
+  •  
 `Algorithms`
-  •  
+  •  
 `Problem Solving`
-  •  
+  •  
 `Practical Applications`
-  •  
+  •  
 `Continuous Learning`
 
 </p>
@@ -137,10 +123,7 @@ Turning ideas into efficient and useful applications.
 <br>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,cpp,c,html,css&perline=5&theme=dark"
-    alt="Tech Stack"
-  />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css&perline=5&theme=dark" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -149,24 +132,16 @@ Turning ideas into efficient and useful applications.
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/SinaMah">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaMah&layout=donut&langs_count=6&hide_border=true&theme=transparent&title_color=F8FAFC&text_color=94A3B8"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaMah&layout=donut&langs_count=6&hide_border=true&theme=transparent&title_color=F8FAFC&text_color=94A3B8" height="180" alt="Top Languages" />
 </a>
 
 <a href="https://github.com/SinaMah">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SinaMah&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=transparent&text_color=94A3B8&icon_color=38BDF8"
-    height="180"
-    alt="GitHub Statistics"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SinaMah&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=transparent&text_color=94A3B8&icon_color=38BDF8" height="180" alt="GitHub Statistics" />
 </a>
 
 </div>
@@ -175,50 +150,7 @@ Turning ideas into efficient and useful applications.
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SinaMah&bg_color=00000000&color=94A3B8&line=38BDF8&point=7DD3FC&area_color=0EA5E9&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity"
-width="96%"
-alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"><br>
-<strong>Python</strong>
-</td>
-
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"><br>
-<strong>C++</strong>
-</td>
-
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48"><br>
-<strong>C</strong>
-</td>
-
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"><br>
-<strong>HTML</strong>
-</td>
-
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"><br>
-<strong>CSS</strong>
-</td>
-
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinaMah&theme=tokyonight" width="96%" alt="Profile Details" />
 
 </div>
 
@@ -246,11 +178,7 @@ alt="GitHub Activity Graph"
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=SinaMah&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
-width="90%"
-alt="GitHub Trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=SinaMah&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" alt="GitHub Trophies" />
 
 </div>
 
@@ -264,10 +192,6 @@ alt="GitHub Trophies"
 
 <br><br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0284C7,50:075985,100:020617"
-width="100%"
-alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0284C7,50:075985,100:020617" width="100%" alt="Footer" />
 
 </div>
