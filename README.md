@@ -25,11 +25,7 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css" alt="My Tech Stack" />
 </div>
 
 ---
